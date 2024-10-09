@@ -1,6 +1,8 @@
-# 4.API
+# 1.Django
 
-“Diseña una API simple con Django que permita realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en un recurso llamado ‘Tareas’. Proporciona los endpoints necesarios.”
+“Crea un modelo Django para una apliacación de biblioteca cno las siguientes características:
+Libros (titulo, autor, fecha de publicacion) y Autores (nombre, fecha de nacimiento)
+
 
 ### Requisitos:
 
